@@ -1,4 +1,4 @@
 ﻿  ConsoleApplication1.cpp
-d:\comnetwork\consoleapplication1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(211): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
-d:\comnetwork\consoleapplication1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(232): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+d:\comnetwork\consoleapplication1\consoleapplication1\consoleapplication1\consoleapplication1.cpp(73): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
   ConsoleApplication1.vcxproj -> D:\ComNetwork\ConsoleApplication1\ConsoleApplication1\Debug\ConsoleApplication1.exe
