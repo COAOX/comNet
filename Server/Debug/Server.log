@@ -1,0 +1,5 @@
+﻿  Server.cpp
+c:\users\geyouheng\source\repos\server\server\server.cpp(1): fatal error C1041: 无法打开程序数据库“C:\Users\GeYouheng\source\repos\Server\Server\Debug\vc141.idb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
+  main.cpp
+c:\users\geyouheng\source\repos\server\server\main.cpp(4): fatal error C1041: 无法打开程序数据库“C:\Users\GeYouheng\source\repos\Server\Server\Debug\vc141.idb”；如果要将多个 CL.EXE 写入同一个 .PDB 文件，请使用 /FS
+  正在生成代码...
